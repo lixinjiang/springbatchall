@@ -30,6 +30,7 @@
         <module>listener</module>
         <module>exception</module>
         <module>launcher</module>
+        <module>schedule</module>
     </modules>
 
     <dependencyManagement>
