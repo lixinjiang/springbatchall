@@ -9,4 +9,5 @@ spring -batch learn
 4. itemwriter
 5. launcher
 6. listener
-7. start
+7. schedule
+8. start
